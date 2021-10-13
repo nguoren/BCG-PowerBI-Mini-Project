@@ -2,6 +2,7 @@
 
 # PowerBI Mini Project
 - Usage of Power Query and various graphical charts for Data Visualisation &amp; Dashboard
+- Link: https://github.com/nguoren/PowerBI-Mini-Project/blob/main/Group%201_Mini_Project_FINAL.pdf
 
 ## Introduction: Global Automotive Seating Company
 - Major supplier of seating systems for automobiles across the world with 200+ seat manufacturing plants in 30+ countries
