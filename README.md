@@ -32,5 +32,5 @@ No. | KPI | Description
 | 5. | Rework Rate | Helps in identifying which products and machines need more reworks on the final products |
 | 6. | Production Pieces | Total Production Pieces vs Expected Total Production. Helps in identifying which machines have been working at full capacity and producing high quality final products |
 
-#### Achievement
+## Achievement
 Score: 70/100
